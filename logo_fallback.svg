@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="250" viewBox="0 0 800 250">
+<rect width="800" height="250" rx="40" fill="#ffffff"/>
+<rect x="30" y="30" width="190" height="190" rx="42" fill="#d71920"/>
+<text x="125" y="150" text-anchor="middle" font-family="Arial" font-size="76" font-weight="800" fill="#ffffff">KK</text>
+<text x="260" y="112" font-family="Arial" font-size="56" font-weight="800" fill="#111111">Kaju Katli</text>
+<text x="260" y="162" font-family="Arial" font-size="27" fill="#616161">Temporal Video Intelligence</text>
+</svg>
