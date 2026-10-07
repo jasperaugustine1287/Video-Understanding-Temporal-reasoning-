@@ -1,4 +1,4 @@
-# Kaju Katli UI
+#UI
 
 A clean Streamlit frontend for the PSI02 Temporal Video Intelligence project.
 
